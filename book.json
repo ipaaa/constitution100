@@ -1,0 +1,29 @@
+{
+    "plugins": [
+        "autocover",
+        "tocstyles"
+    ],
+    "pluginsConfig": {
+        "autocover": {
+            "title": "憲改必考100題！",
+            "author": "憲餅廚房編輯群",
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        },
+        "tocstyles": [
+            "",
+            "cjk-ideographic",
+            "decimal-leading-zero"
+        ]
+    }
+}
