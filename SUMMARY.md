@@ -12,7 +12,7 @@
        * [為甚麼現在又要再修憲？](chapter_2/a-1.md)
        * [這次說要修憲，是要修哪些?](chapter_2/a-2.md)
        * [3](chapter_2/a-3.md)
-       * 4
+       * [4](chapter_2/a-4.md)
    * [憲法ABC](chapter_2/b.md)
        * [隔壁老王也有可能違憲嗎？](chapter_2/b-1.md)
        * [聽說美國憲法只有七條，憲法要有幾條、規定多細才夠？](chapter_2/b-2.md)
