@@ -38,7 +38,7 @@
        * [5](chapter_2/c-5.md)
        * [6](chapter_2/c-6.md)
        * [7](chapter_3/c-7.md)
-       * [8](chapter_3/c-8.md)
+       * [8](chapter_2/c-8.md)
 * [劃重點時間](chapter_3/README.md)
    * [人權保障](chapter_3/a.md)
    * [選舉制度](chapter_3/b.md)
