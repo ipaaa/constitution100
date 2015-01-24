@@ -31,7 +31,7 @@
        * [9](chapter_2/b-9.md)
        * [10](chapter_2/b-10.md)
    * [憲法怎麼修](chapter_2/c.md)
-       * [1](chapter_3/c-1.md)
+       * [1](chapter_2/c-1.md)
        * [2](chapter_3/c-2.md)
        * [3](chapter_3/c-3.md)
        * [4](chapter_3/c-4.md)
