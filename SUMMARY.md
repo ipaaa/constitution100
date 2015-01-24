@@ -35,7 +35,7 @@
        * [2](chapter_2/c-2.md)
        * [3](chapter_2/c-3.md)
        * [4](chapter_2/c-4.md)
-       * [5](chapter_3/c-5.md)
+       * [5](chapter_2/c-5.md)
        * [6](chapter_3/c-6.md)
        * [7](chapter_3/c-7.md)
        * [8](chapter_3/c-8.md)
