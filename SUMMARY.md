@@ -14,7 +14,7 @@
        * [3](chapter_2/a-3.md)
        * [4](chapter_2/a-4.md)
        * [5](chapter_2/a-5.md)
-       * 6
+       * [6](chapter_2/a-6.md)
    * [憲法ABC](chapter_2/b.md)
        * [隔壁老王也有可能違憲嗎？](chapter_2/b-1.md)
        * [聽說美國憲法只有七條，憲法要有幾條、規定多細才夠？](chapter_2/b-2.md)
