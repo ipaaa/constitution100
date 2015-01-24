@@ -26,6 +26,7 @@
        * [4](chapter_2/b-4.md)
        * [5](chapter_2/b-5.md)
        * [6](chapter_2/b-6.md)
+       * 7
    * [憲法怎麼修](chapter_2/c.md)
 * [劃重點時間](chapter_3/README.md)
    * [人權保障](chapter_3/a.md)
